@@ -1,0 +1,8 @@
+Several parts to this problem that should be kept separate as far as possible, potentially separate files.
+
+*Dealing with the bluetooth connection to the wiimote/device, as well as whatever noise cancellation/motion dampening stuff is necessary
+
+*Render Motions and position wrt a object in nD space
+(wiimote has 3D positioning, nunchuck also has 3D, so even without using buttons, thats 6D navigation. Altho i know it'll take shit tonnes of practice (especially using 3d goggles) to become familiar with it.)
+
+
